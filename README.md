@@ -1,3 +1,3 @@
 # poker-hand-sorter
-To see the out put on the console
-#$run node main.js
+To see the output pls run
+$run node main.js
